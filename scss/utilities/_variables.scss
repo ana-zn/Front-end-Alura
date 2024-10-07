@@ -1,0 +1,33 @@
+/*Variables*/
+//------------------------------------------
+
+/*Variables de Color*/
+$bordo--color: #8F0101; 
+$vermelho--color: #B81515; 
+$negro--color: #000000; 
+$grafite--color: #222222; 
+$gris-oscuro-color: #8C8C8C; 
+$gris--medio-color: #D9D9D9; 
+$gris--claro-color: #F5F5F5; 
+$blanco--color:#FFFFFF; 
+
+/*Variables de Tipografia*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); 
+$main--typography: "Roboto", sans-serif;
+
+/*Tamaño de Tipografia*/
+$h1--typography: 3rem; //48px 
+$h2--typography: 2.5rem; //40px 
+$h3--typography: 2rem; //32px 
+$h4--typography: 1.75rem; //28px
+$body1--typography: 1rem; //16px 
+$body2--typography: 1.25rem; //20px 
+$body3--typography: 1.5rem; //24px
+$body4--typography: 2rem; // 32px
+$subtitle--typography: 0.875rem; //14px 
+
+/*Tamaño de line heigth*/
+$line-height-base: 150%; // Altura de línea estándar para texto normal
+$line-height-heading-small: 1.75rem; // 28px 
+$line-height-heading-medium: 2rem; //32px
+$line-height-paragraph-large: 3.656rem; //58.5 px 

@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/*Variables*/
+/*Variables de Color*/
+/*Variables de Tipografia*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+/*Tamaño de Tipografia*/
+/*Tamaño de line heigth*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*Variables*/
+/*Variables de Color*/
+/*Variables de Tipografia*/
+/*Tamaño de Tipografia*/
+/*Tamaño de line heigth*/
+.container__header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 138px;
+  background-color: #000000;
+  padding: 0px 180px;
+}
+.container__header .logo__header img {
+  width: 260px;
+}
+.container__header .header__navbar {
+  width: 100%;
+}
+.container__header .header__navbar ul {
+  display: flex;
+  justify-content: space-between;
+}
+.container__header .header__navbar ul li {
+  width: 100%;
+  text-align: center;
+}
+
+/*Variables*/
+/*Variables de Color*/
+/*Variables de Tipografia*/
+/*Tamaño de Tipografia*/
+/*Tamaño de line heigth*/
+
+/*# sourceMappingURL=style.css.map */

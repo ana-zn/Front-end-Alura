@@ -1,0 +1,27 @@
+@import "../utilities/variables"; 
+.container__header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 138px;
+    background-color: $negro--color;
+    padding: 0px 180px;
+    .logo__header{
+        img{
+            width: 260px;
+        }
+    }
+    .header__navbar{
+        width: 100%;
+        ul{
+            display: flex;
+            justify-content: space-between;
+            li{
+                width: 100%;
+                text-align: center;
+            }
+        }
+        
+    }
+}
